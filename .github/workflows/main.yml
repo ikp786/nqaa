@@ -13,8 +13,8 @@ jobs:
       - name: Deploy file
         uses: SamKirkland/FTP-Deploy-Action@4.3.2
         with:
-         username: 'newftp@molniwasi.org'
-         server: 'ftp.premad.in'
+         username: 'naqaa@naqaa.app'
+         server: 'naqaa.app'
          port: '21'
-         server-dir: '//nandiyouthfoundation.com/haniti/'
-         password: 'newftp_250'
+         server-dir: '/naqaa'
+         password: 'rEdGv+BJK8}v'
