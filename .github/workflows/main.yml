@@ -16,5 +16,5 @@ jobs:
          username: 'naqaa@naqaa.app'
          server: 'naqaa.app'
          port: '21'
-         server-dir: '/naqaa'
+         server-dir: '/naqaa/'
          password: 'rEdGv+BJK8}v'
